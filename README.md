@@ -6,6 +6,7 @@ especially on a small budget. Joe has a design for a sensor array that consists 
 he may or may not need to build multiples of his design. An additional constraint that Joe faces is that he
 cannot afford a new experimental control apparatus to power the sensors and so is stuck with an existing unit
 that he found in the departmental store room.
+
 The control apparatus can provide power for one to ten sensor arrays as follows:
 
 1 sensor array (100 sensors) for 28 seconds.
